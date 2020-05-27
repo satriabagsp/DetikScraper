@@ -2,7 +2,7 @@
 A tool for scraping news data from detik.com official website, based on the keywords you want to search.
 
 How to use:
-- Clone this repository, and install "Scrapy Library" on your Python.
+- Clone this repository, and install "Scrapy Library" and "mysql-connector Library" on your Python.
 - Import detik.sql to your mySQL 
 - Change directory to "DetikScraper"
 - Open file detikscraper.py
